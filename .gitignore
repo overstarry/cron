@@ -20,3 +20,9 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+/.idea/.gitignore
+/.idea/cron.iml
+/.idea/markdown.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
